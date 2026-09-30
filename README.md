@@ -39,4 +39,3 @@ All technical tasks were developed and tested in a secure, local environment:
 *   **Development Tools:** GCC (C++), Python 3, Git
 
 ---
-> *"Building secure systems through continuous learning and proactive defense."*
